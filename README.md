@@ -12,7 +12,7 @@ npm install -D webpack webpack-cli babel-loader @babel/core @babel/preset-env ht
 ```
 Y por ultimo instalar react
 ```
-npm install --save react react-dom
+npm install --save react react-dom styled-components
 ```
 Despues de esto ejecutamos:
 ```
