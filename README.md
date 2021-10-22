@@ -8,7 +8,7 @@ npm init
 ```
 Despues es necesario instalar alguna dependencias de desarrollo para que no tenga errores
 ```
-npm install -D webpack webpack-cli babel-loader @babel/core @babel/preset-env html-webpack-plugin html-loader mini-css-extract-plugin css-loader 
+npm install -D webpack webpack-cli babel-loader @babel/core @babel/preset-env html-webpack-plugin html-loader mini-css-extract-plugin css-loader @babel/preset-react
 ```
 Y por ultimo instalar react
 ```
